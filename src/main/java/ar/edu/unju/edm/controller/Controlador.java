@@ -10,6 +10,7 @@ public class Controlador {
     @GetMapping("/mostrar") //para mostrar la pagina calculadora
     public String getMenuSoy() { //metodo para devolver una pagina html llamadda calculadora
     	return("");
+    	
     }
 
 }
